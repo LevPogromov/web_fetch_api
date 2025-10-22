@@ -85,5 +85,4 @@ async function fetchDogBreeds() {
   }
 }
 
-// Загрузим один факт при загрузке страницы
 fetchDogFacts(1)
