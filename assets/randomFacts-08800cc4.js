@@ -1,4 +1,4 @@
-import{c as a}from"./styles-96c523e1.js";const c=document.getElementById("app");c.innerHTML=`
+import{c as a}from"./styles-cd6eed05.js";const c=document.getElementById("app");c.innerHTML=`
   ${a()}
   <h1>Случайные факты</h1>
   <button id="fetchFact">Получить случайный факт</button>

@@ -1,4 +1,4 @@
-import{c as i}from"./styles-96c523e1.js";document.getElementById("app").innerHTML=`
+import{c as i}from"./styles-cd6eed05.js";document.getElementById("app").innerHTML=`
   ${i()}
   <div class="card">
     <h1>Добро пожаловать в мультистраничное приложение!</h1>

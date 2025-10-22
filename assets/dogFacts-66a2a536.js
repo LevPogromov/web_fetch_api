@@ -1,4 +1,4 @@
-import{c}from"./styles-96c523e1.js";const d=document.getElementById("app");d.innerHTML=`
+import{c}from"./styles-cd6eed05.js";const d=document.getElementById("app");d.innerHTML=`
   ${c()}
   <h1>Факты о собаках</h1>
   <div style="margin-bottom: 20px;">

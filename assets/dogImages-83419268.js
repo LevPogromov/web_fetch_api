@@ -1,4 +1,4 @@
-import{c as o}from"./styles-96c523e1.js";const a=document.getElementById("app");a.innerHTML=`
+import{c as o}from"./styles-cd6eed05.js";const a=document.getElementById("app");a.innerHTML=`
   ${o()}
   <h1>Случайные изображения собак</h1>
   <button id="fetchDogImage">Получить изображение собаки</button>
