@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import { resolve } from 'path'
 
 export default defineConfig({
-  base: '/multi-page-fetch-app/',
+  base: '/web_fetch_api/',
   build: {
     rollupOptions: {
       input: {
